@@ -1,0 +1,10 @@
+Author: Dameli Utembayeva
+
+Compilation/running the program: In terminal type: python tree.py
+
+Instructions to test: on lines 275-277 substitue various values for BATTERY_LEVEL, SPOT_CLEANING and GENERAL_CLEANING
+
+Implementation Details: the program has object-oriented deisgn. The hierarchy of classes is as follows: node (genereic class)
+then the second level is the subtypes of node which are: composites, tasks,condiitions and a decorator
+
+I used a tree to represent the robot.
